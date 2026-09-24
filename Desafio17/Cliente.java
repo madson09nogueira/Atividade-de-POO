@@ -6,6 +6,4 @@ public class Cliente {
         this.nome = nome;
         this.telefone = telefone;
     }
-
-    
 }

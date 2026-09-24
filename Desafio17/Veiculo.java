@@ -8,6 +8,4 @@ public class Veiculo {
         this.placa = placa;
         this.modelo = modelo;
     }
-
-    
 }
